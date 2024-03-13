@@ -1,0 +1,7 @@
+body{
+    background-image:url(G-background.jpeg) ;
+    background-size: contain;
+    backface-visibility: inherit;
+    background-blend-mode: hard-light;
+
+}
